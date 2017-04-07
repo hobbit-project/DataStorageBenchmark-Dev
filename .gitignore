@@ -19,3 +19,15 @@ target/
 *.pyc
 scripts/
 *.iml
+=======
+.project
+.classpath
+.settings/
+*.*~
+.*
+target/
+lib/
+*.iml
+sample_data/
+plotting/*.pdf
+
