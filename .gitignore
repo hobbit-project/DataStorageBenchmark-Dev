@@ -1,0 +1,21 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.pyc
+
+# IntelliJ stuff
+.idea
+ldbc_socialnet_dbgen.iml
+
+#other stuff
+target/
+.m0factors.txt.crc
+.m0friendList0.csv.crc
+substitution_parameters/
+target/
+*.pyc
+scripts/
+*.iml
